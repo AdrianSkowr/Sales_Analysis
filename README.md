@@ -55,7 +55,7 @@ The analysis follows these main steps:
 Below are some of the key visualizations generated during the analysis:
 
 ### 1. Revenue by Period
-![Revenue by Period](https://github.com/AdrianSkowr/Sales_Analysis/blob/main/images/revenue_by_period.pngSales_Analysys/images/revenue_by_period.png)
+![Revenue by Period](images/revenue_by_period.png)
 This chart shows the total revenue for each season, helping identify when the highest revenue was generated.
 
 The highest revenue was generated in fall. If we take a closer look at shopping trends, 43.69% of revenue in the fall comes from clothing sales. In the fall, 34% of buyers were women (compared to the number of buyers for the whole year, where the share of women is 32%).
@@ -63,16 +63,18 @@ The highest revenue was generated in fall. If we take a closer look at shopping 
 What distinguishes fall shoppers is that the largest portion of them are annually returning customers.
 
 ### 2. Most Purchased Products by Subscribers
-
+![Most Purchased Products](images/most_purchased_products.png)
 This bar chart illustrates the most frequently purchased products by subscribers, highlighting customer preferences.
 
 ### 3. Sales by State
+![Sales by State](images/sales_by_state.png)
 
 This pivot shows the total sales in each state, helping identify which states had the highest and lowest sales.
 
 The state of Montana had the highest revenue, followed by Illinois and California. The state of Kansas was the weakest, providing 1.47% of the revenue amount.
 
 ### 4. State Sales by Category
+![Sales by Category](images/sales_by_category_state.png)
 
 By category, the following states recorded the highest revenue:
 
@@ -82,8 +84,9 @@ By category, the following states recorded the highest revenue:
 - **Footwear**: Ohio
 
 ### 5. Seasonal Sales Trends by State
+![Seasonal Sales](images/seasonal_sales_state.png)
 
-This chart tracks the sales by state across different seasons, showing which season had the highest sales in each region. For instance, Montana experienced peak sales in Fall, while Ohio saw higher sales during Summer.
+This pivot tracks the sales by state across different seasons, showing which season had the highest sales in each region.
 
 ## Key Insights
 
