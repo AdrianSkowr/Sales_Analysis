@@ -55,7 +55,7 @@ The analysis follows these main steps:
 Below are some of the key visualizations generated during the analysis:
 
 ### 1. Revenue by Period
-![Revenue by Period](Sales_Analysys/images/revenue_by_period.png)
+![Revenue by Period](https://github.com/AdrianSkowr/Sales_Analysis/blob/main/images/revenue_by_period.pngSales_Analysys/images/revenue_by_period.png)
 This chart shows the total revenue for each season, helping identify when the highest revenue was generated.
 
 The highest revenue was generated in fall. If we take a closer look at shopping trends, 43.69% of revenue in the fall comes from clothing sales. In the fall, 34% of buyers were women (compared to the number of buyers for the whole year, where the share of women is 32%).
