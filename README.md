@@ -48,7 +48,7 @@ The analysis follows these main steps:
 1. **Data Cleaning**: Removing unnecessary formulas, adjusting formats in columns, checking for duplicate values and empty cells, and ensuring the data is ready for analysis.
 2. **Exploratory Data Analysis (EDA)**: Investigating the data using statistical methods and visualizations.
 3. **Answering Research Questions**: Using the data to answer the specific questions outlined above.
-4. **Visualizations**: Creating pivots and charts to illustrate key insights and trends.
+4. **Visualizations**: Creating tables and charts to illustrate key insights and trends.
 
 ## Visualizations
 
@@ -69,7 +69,7 @@ This bar chart illustrates the most frequently purchased products by subscribers
 ### 3. Sales by State
 ![Sales by State](images/sales_by_state.png)
 
-This pivot shows the total sales in each state, helping identify which states had the highest and lowest sales.
+This table shows the total sales in each state, helping identify which states had the highest and lowest sales.
 
 The state of Montana had the highest revenue, followed by Illinois and California. The state of Kansas was the weakest, providing 1.47% of the revenue amount.
 
@@ -86,7 +86,7 @@ By category, the following states recorded the highest revenue:
 ### 5. Seasonal Sales Trends by State
 ![Seasonal Sales](images/seasonal_sales_state.png)
 
-This pivot tracks the sales by state across different seasons, showing which season had the highest sales in each region.
+This table tracks the sales by state across different seasons, showing which season had the highest sales in each region.
 
 ## Key Insights
 
